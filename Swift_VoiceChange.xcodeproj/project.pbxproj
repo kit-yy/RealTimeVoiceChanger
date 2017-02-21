@@ -12,6 +12,13 @@
 		CE26E5861E5BDB05006AE04A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5841E5BDB05006AE04A /* Main.storyboard */; };
 		CE26E5881E5BDB05006AE04A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5871E5BDB05006AE04A /* Assets.xcassets */; };
 		CE26E58B1E5BDB05006AE04A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5891E5BDB05006AE04A /* LaunchScreen.storyboard */; };
+		CE26E5991E5BE31D006AE04A /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5921E5BE31D006AE04A /* 1.png */; };
+		CE26E59A1E5BE31D006AE04A /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5931E5BE31D006AE04A /* 2.png */; };
+		CE26E59B1E5BE31D006AE04A /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5941E5BE31D006AE04A /* 3.png */; };
+		CE26E59C1E5BE31D006AE04A /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5951E5BE31D006AE04A /* 4.png */; };
+		CE26E59D1E5BE31D006AE04A /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5961E5BE31D006AE04A /* 5.png */; };
+		CE26E59E1E5BE31D006AE04A /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5971E5BE31D006AE04A /* 6.png */; };
+		CE26E59F1E5BE31D006AE04A /* back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE26E5981E5BE31D006AE04A /* back.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		CE26E5871E5BDB05006AE04A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE26E58A1E5BDB05006AE04A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE26E58C1E5BDB05006AE04A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE26E5921E5BE31D006AE04A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		CE26E5931E5BE31D006AE04A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		CE26E5941E5BE31D006AE04A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		CE26E5951E5BE31D006AE04A /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		CE26E5961E5BE31D006AE04A /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		CE26E5971E5BE31D006AE04A /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		CE26E5981E5BE31D006AE04A /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +68,13 @@
 		CE26E57F1E5BDB05006AE04A /* Swift_VoiceChange */ = {
 			isa = PBXGroup;
 			children = (
+				CE26E5921E5BE31D006AE04A /* 1.png */,
+				CE26E5931E5BE31D006AE04A /* 2.png */,
+				CE26E5941E5BE31D006AE04A /* 3.png */,
+				CE26E5951E5BE31D006AE04A /* 4.png */,
+				CE26E5961E5BE31D006AE04A /* 5.png */,
+				CE26E5971E5BE31D006AE04A /* 6.png */,
+				CE26E5981E5BE31D006AE04A /* back.jpg */,
 				CE26E5801E5BDB05006AE04A /* AppDelegate.swift */,
 				CE26E5821E5BDB05006AE04A /* ViewController.swift */,
 				CE26E5841E5BDB05006AE04A /* Main.storyboard */,
@@ -96,6 +117,7 @@
 				TargetAttributes = {
 					CE26E57C1E5BDB05006AE04A = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 4G7E7A5Y4A;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -124,6 +146,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE26E58B1E5BDB05006AE04A /* LaunchScreen.storyboard in Resources */,
+				CE26E59C1E5BE31D006AE04A /* 4.png in Resources */,
+				CE26E5991E5BE31D006AE04A /* 1.png in Resources */,
+				CE26E59E1E5BE31D006AE04A /* 6.png in Resources */,
+				CE26E59A1E5BE31D006AE04A /* 2.png in Resources */,
+				CE26E59B1E5BE31D006AE04A /* 3.png in Resources */,
+				CE26E59F1E5BE31D006AE04A /* back.jpg in Resources */,
+				CE26E59D1E5BE31D006AE04A /* 5.png in Resources */,
 				CE26E5881E5BDB05006AE04A /* Assets.xcassets in Resources */,
 				CE26E5861E5BDB05006AE04A /* Main.storyboard in Resources */,
 			);
@@ -258,7 +287,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4G7E7A5Y4A;
 				INFOPLIST_FILE = Swift_VoiceChange/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yasuaki.Swift-VoiceChange";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -270,7 +301,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4G7E7A5Y4A;
 				INFOPLIST_FILE = Swift_VoiceChange/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yasuaki.Swift-VoiceChange";
 				PRODUCT_NAME = "$(TARGET_NAME)";
